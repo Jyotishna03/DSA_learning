@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Jyotishna03/DSA_learning/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Jyotishna03/DSA_learning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
