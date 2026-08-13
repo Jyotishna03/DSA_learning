@@ -12,7 +12,7 @@ public:
         while(high < n) {
 
             // Add current element
-            sum = sum + nums[high];
+            sum += nums[high];
 
             // Shrink window while sum >= target
             while(sum >= target) {
@@ -21,7 +21,7 @@ public:
 
                 res = min(res, len);
 
-                sum = sum - nums[low];
+                sum -= nums[low];
 
                 low++;
             }
