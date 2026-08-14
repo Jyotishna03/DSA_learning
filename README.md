@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishna03/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyotishna03/DSA_learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishna03/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Jyotishna03/DSA_learning/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishna03/DSA_learning/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishna03/DSA_learning/tree/master/0904-fruit-into-baskets) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishna03/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishna03/DSA_learning/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishna03/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
