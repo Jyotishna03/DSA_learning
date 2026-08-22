@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Jyotishna03/DSA_learning/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Jyotishna03/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishna03/DSA_learning/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Jyotishna03/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishna03/DSA_learning/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishna03/DSA_learning/tree/master/0992-subarrays-with-k-different-integers) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Jyotishna03/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishna03/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Floyd's Cycle Finding Algorithm
