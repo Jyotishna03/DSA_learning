@@ -1,26 +1,30 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-
         int n = nums.size();
-
+        stack<int> st;
         vector<int> res(n, -1);
 
-        stack<int> st;
+        // First loop: put elements from right to left
+        for(int i = n - 2; i >= 0; i--) {
+            while(!st.empty() && st.top() <= nums[i]) {
+                st.pop();
+            }
+            st.push(nums[i]);
+        }
 
-        for(int i = 2 * n - 1; i >= 0; i--) {
+        // Second loop: find next greater
+        for(int i = n - 1; i >= 0; i--) {
 
-            int index = i % n;
-
-            while(!st.empty() && st.top() <= nums[index]) {
+            while(!st.empty() && st.top() <= nums[i]) {
                 st.pop();
             }
 
-            if(i < n && !st.empty()) {
-                res[index] = st.top();
+            if(!st.empty()) {
+                res[i] = st.top();
             }
 
-            st.push(nums[index]);
+            st.push(nums[i]);
         }
 
         return res;
