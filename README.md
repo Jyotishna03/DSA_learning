@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Jyotishna03/DSA_learning/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyotishna03/DSA_learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Jyotishna03/DSA_learning/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jyotishna03/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishna03/DSA_learning/tree/master/0904-fruit-into-baskets) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishna03/DSA_learning/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jyotishna03/DSA_learning/tree/master/0175-combine-two-tables) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
