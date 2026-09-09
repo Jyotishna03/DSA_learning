@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Jyotishna03/DSA_learning/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/Jyotishna03/DSA_learning/tree/master/0093-restore-ip-addresses) |
 | [0383-ransom-note](https://github.com/Jyotishna03/DSA_learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyotishna03/DSA_learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/Jyotishna03/DSA_learning/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
