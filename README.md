@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0287-find-the-duplicate-number) |
@@ -166,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishna03/DSA_learning/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jyotishna03/DSA_learning/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
