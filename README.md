@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishna03/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Jyotishna03/DSA_learning/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Jyotishna03/DSA_learning/tree/master/0093-restore-ip-addresses) |
 | [0383-ransom-note](https://github.com/Jyotishna03/DSA_learning/tree/master/0383-ransom-note) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jyotishna03/DSA_learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Jyotishna03/DSA_learning/tree/master/0093-restore-ip-addresses) |
 ## Recursion
 |  |
