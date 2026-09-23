@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/Jyotishna03/DSA_learning/tree/master/0836-rectangle-overlap) |
+| [3870-count-commas-in-range](https://github.com/Jyotishna03/DSA_learning/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
