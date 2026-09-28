@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jyotishna03/DSA_learning/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishna03/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Jyotishna03/DSA_learning/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Jyotishna03/DSA_learning/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishna03/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Jyotishna03/DSA_learning/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Jyotishna03/DSA_learning/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishna03/DSA_learning/tree/master/0128-longest-consecutive-sequence) |
