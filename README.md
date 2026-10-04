@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jyotishna03/DSA_learning/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jyotishna03/DSA_learning/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Jyotishna03/DSA_learning/tree/master/0093-restore-ip-addresses) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Jyotishna03/DSA_learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jyotishna03/DSA_learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
