@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jyotishna03/DSA_learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Jyotishna03/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Jyotishna03/DSA_learning/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Jyotishna03/DSA_learning/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishna03/DSA_learning/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0930-binary-subarrays-with-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Jyotishna03/DSA_learning/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishna03/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
