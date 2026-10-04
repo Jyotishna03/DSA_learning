@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Jyotishna03/DSA_learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Jyotishna03/DSA_learning/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyotishna03/DSA_learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Jyotishna03/DSA_learning/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Jyotishna03/DSA_learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Jyotishna03/DSA_learning/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyotishna03/DSA_learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jyotishna03/DSA_learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jyotishna03/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jyotishna03/DSA_learning/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Jyotishna03/DSA_learning/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
