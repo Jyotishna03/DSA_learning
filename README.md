@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jyotishna03/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jyotishna03/DSA_learning/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
 ## Binary Search
 |  |
 | ------- |
