@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jyotishna03/DSA_learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jyotishna03/DSA_learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jyotishna03/DSA_learning/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Jyotishna03/DSA_learning/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jyotishna03/DSA_learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
