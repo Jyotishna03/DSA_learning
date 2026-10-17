@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyotishna03/DSA_learning/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jyotishna03/DSA_learning/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyotishna03/DSA_learning/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/Jyotishna03/DSA_learning/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Jyotishna03/DSA_learning/tree/master/0141-linked-list-cycle) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyotishna03/DSA_learning/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jyotishna03/DSA_learning/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
