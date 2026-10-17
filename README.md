@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/Jyotishna03/DSA_learning/tree/master/0836-rectangle-overlap) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Jyotishna03/DSA_learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Jyotishna03/DSA_learning/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Jyotishna03/DSA_learning/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jyotishna03/DSA_learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Jyotishna03/DSA_learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |
