@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Jyotishna03/DSA_learning/tree/master/0836-rectangle-overlap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jyotishna03/DSA_learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Jyotishna03/DSA_learning/tree/master/3870-count-commas-in-range) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jyotishna03/DSA_learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jyotishna03/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyotishna03/DSA_learning/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jyotishna03/DSA_learning/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jyotishna03/DSA_learning/tree/master/2333-minimum-sum-of-squared-difference) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
