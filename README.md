@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jyotishna03/DSA_learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jyotishna03/DSA_learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jyotishna03/DSA_learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,12 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishna03/DSA_learning/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jyotishna03/DSA_learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jyotishna03/DSA_learning/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jyotishna03/DSA_learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,12 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Jyotishna03/DSA_learning/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishna03/DSA_learning/tree/master/0543-diameter-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jyotishna03/DSA_learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jyotishna03/DSA_learning/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Jyotishna03/DSA_learning/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jyotishna03/DSA_learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
