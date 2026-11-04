@@ -1,30 +1,29 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int open = 0;
         int ans = 0;
-
-        for (int i = 0; i < s.size(); i++) {
+        int open = 0;
+        
+        for (int i = 0; i < s.length(); ++i) {
             if (s[i] == '(') {
-                open++;
-            }
-            else {
-                if (i + 1 < s.size() && s[i + 1] == ')') {
-                    i++;
-                }
-                else {
+                // If we need an odd number of ')' to close a previous group, 
+                // we insert one ')' right here.
+                if (open % 2 != 0) {
                     ans++;
+                    open--; // consumed one requirement
                 }
-
-                if (open > 0) {
-                    open--;
-                }
-                else {
-                    ans++;
+                open += 2; // Each '(' requires two ')'
+            } else { // s[i] == ')'
+                open--;
+                // If open drops below 0, we have an extra ')' without an opening '('
+                if (open < 0) {
+                    ans++;     // Insert a '('
+                    open += 2; // That inserted '(' now contributes 2 expected ')'
                 }
             }
         }
-
-        return ans + open * 2;
+        
+        // Any remaining open parentheses need 2 closing parentheses each
+        return ans + open;
     }
 };
