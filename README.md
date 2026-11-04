@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jyotishna03/DSA_learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jyotishna03/DSA_learning/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jyotishna03/DSA_learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jyotishna03/DSA_learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jyotishna03/DSA_learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jyotishna03/DSA_learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jyotishna03/DSA_learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishna03/DSA_learning/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Jyotishna03/DSA_learning/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jyotishna03/DSA_learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jyotishna03/DSA_learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jyotishna03/DSA_learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jyotishna03/DSA_learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jyotishna03/DSA_learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jyotishna03/DSA_learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jyotishna03/DSA_learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
