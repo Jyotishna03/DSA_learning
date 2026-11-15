@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jyotishna03/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Jyotishna03/DSA_learning/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jyotishna03/DSA_learning/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishna03/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Jyotishna03/DSA_learning/tree/master/1732-find-the-highest-altitude) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
