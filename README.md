@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishna03/DSA_learning/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishna03/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jyotishna03/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jyotishna03/DSA_learning/tree/master/1914-cyclically-rotating-a-grid) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jyotishna03/DSA_learning/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Jyotishna03/DSA_learning/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jyotishna03/DSA_learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jyotishna03/DSA_learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Jyotishna03/DSA_learning/tree/master/3870-count-commas-in-range) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Jyotishna03/DSA_learning/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jyotishna03/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jyotishna03/DSA_learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jyotishna03/DSA_learning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishna03/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishna03/DSA_learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Floyd's Cycle Finding Algorithm
 |  |
