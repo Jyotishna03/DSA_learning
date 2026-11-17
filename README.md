@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Jyotishna03/DSA_learning/tree/master/0836-rectangle-overlap) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jyotishna03/DSA_learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jyotishna03/DSA_learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Jyotishna03/DSA_learning/tree/master/3870-count-commas-in-range) |
 ## String
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jyotishna03/DSA_learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
