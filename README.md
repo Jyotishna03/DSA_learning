@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jyotishna03/DSA_learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jyotishna03/DSA_learning/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jyotishna03/DSA_learning/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0040-combination-sum-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jyotishna03/DSA_learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jyotishna03/DSA_learning/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jyotishna03/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jyotishna03/DSA_learning/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Jyotishna03/DSA_learning/tree/master/0075-sort-colors) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jyotishna03/DSA_learning/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jyotishna03/DSA_learning/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Jyotishna03/DSA_learning/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jyotishna03/DSA_learning/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jyotishna03/DSA_learning/tree/master/0075-sort-colors) |
