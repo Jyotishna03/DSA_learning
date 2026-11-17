@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jyotishna03/DSA_learning/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jyotishna03/DSA_learning/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Jyotishna03/DSA_learning/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Jyotishna03/DSA_learning/tree/master/0383-ransom-note) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jyotishna03/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/Jyotishna03/DSA_learning/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jyotishna03/DSA_learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyotishna03/DSA_learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyotishna03/DSA_learning/tree/master/0152-maximum-product-subarray) |
